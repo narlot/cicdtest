@@ -28,7 +28,7 @@ Learn more at https://cap.cloud.sap/docs/get-started/.
 
 The general steps are defined here
 
-``https://developers.sap.com/tutorials/set-up-cicd..html``
+``https://developers.sap.com/tutorials/set-up-cicd.html``
 
 But!!
 
@@ -59,4 +59,4 @@ stages:
       credential: "aacf"
 ```
 
-`mta.yaml` can be generated with cds add mta once the app is ready for the deployment (so that mta add all the necessary services)
+`mta.yaml` can be generated with `cds add mta` once the app is ready for the deployment (so that mta add all the necessary services)
